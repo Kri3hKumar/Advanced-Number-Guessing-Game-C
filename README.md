@@ -100,16 +100,6 @@ You guessed the number in 3 attempts.
 
 
 
-## Future Improvements
-
-- Save the best score using file handling.
-- Add player names.
-- Display previous guesses.
-- Add a timer or score system.
-- Replace `goto` with a menu-based design after learning more advanced concepts.
-
-
-
 ## Author
 
 **Krish Kumar**
