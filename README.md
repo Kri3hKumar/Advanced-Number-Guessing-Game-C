@@ -98,7 +98,7 @@ Congratulations!!!
 You guessed the number in 3 attempts.
 ```
 
----
+
 
 ## Future Improvements
 
@@ -108,7 +108,7 @@ You guessed the number in 3 attempts.
 - Add a timer or score system.
 - Replace `goto` with a menu-based design after learning more advanced concepts.
 
----
+
 
 ## Author
 
