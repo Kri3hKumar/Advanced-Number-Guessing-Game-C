@@ -98,8 +98,6 @@ Congratulations!!!
 You guessed the number in 3 attempts.
 ```
 
-
-
 ## Author
 
 **Krish Kumar**
